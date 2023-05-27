@@ -51,11 +51,11 @@ If exist, used externall libraries and usage purposes : The following technologi
 These libraries were chosen to enhance the development process and provide additional functionalities such as routing, UI components, HTTP requests, and efficient build processes.
 
 Instructions for running your project : First , go to project path. Then type
-
+```
 npm i vite@latest
 
 npm i
 
 npm run dev
-
+```
 Github URL: https://github.com/atakrk/CS391-Project/tree/master
