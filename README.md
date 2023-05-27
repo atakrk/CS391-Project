@@ -35,11 +35,11 @@ Ata Kuruk : Backend-data side development
 
 If exist, used externall libraries and usage purposes : The following technologies and libraries were used to develop this project:
 
-React Router DOM: A library that provides routing capabilities for React applications.
-React DOM: A package that serves as the entry point to the DOM-related rendering methods in React.
-React Bootstrap: A UI library that provides pre-designed components and styles for React applications.
-Axios: A popular library for making HTTP requests from the browser or Node.js.
-Vite: A fast and efficient build tool for modern web applications.
+-React Router DOM: A library that provides routing capabilities for React applications.
+-React DOM: A package that serves as the entry point to the DOM-related rendering methods in React.
+-React Bootstrap: A UI library that provides pre-designed components and styles for React applications.
+-Axios: A popular library for making HTTP requests from the browser or Node.js.
+-Vite: A fast and efficient build tool for modern web applications.
 These libraries were chosen to enhance the development process and provide additional functionalities such as routing, UI components, HTTP requests, and efficient build processes.
 
 Instructions for running your project : First , go to project path. Then type
@@ -50,4 +50,4 @@ npm i
 
 npm run dev
 
-Github URL: https://github.com/atakrk/CS391-Project.git
+Github URL: https://github.com/atakrk/CS391-Project/tree/master
