@@ -11,11 +11,11 @@ Features
 
 -**Login Screen**: Users can log in to the website using their credentials.
 
--Open Job Positions**: This page displays a list of open job positions available. Users can view the job details and apply for a position if interested.
+-**Open Job Positions**: This page displays a list of open job positions available. Users can view the job details and apply for a position if interested.
 
--Applied Jobs**: Users can view the jobs they have applied for. This page shows the status of each application.
+-**Applied Jobs**: Users can view the jobs they have applied for. This page shows the status of each application.
 
--User Profile**: The user profile section serves as the user's CV. It displays the user's information, work experience, education, and other relevant details.
+-**User Profile**: The user profile section serves as the user's CV. It displays the user's information, work experience, education, and other relevant details.
 
 Technologies
 
@@ -35,8 +35,8 @@ Ata Kuruk : Backend-data side development
 
 If exist, used externall libraries and usage purposes : The following technologies and libraries were used to develop this project:
 
--React Router DOM: A library that provides routing capabilities for React applications.
--React DOM: A package that serves as the entry point to the DOM-related rendering methods in React.
+-**React Router DOM**: A library that provides routing capabilities for React applications.
+-**React DOM**: A package that serves as the entry point to the DOM-related rendering methods in React.
 -React Bootstrap: A UI library that provides pre-designed components and styles for React applications.
 -Axios: A popular library for making HTTP requests from the browser or Node.js.
 -Vite: A fast and efficient build tool for modern web applications.
