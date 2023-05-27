@@ -9,7 +9,7 @@ The purpose of this project is to create a LinkedIn-like website using React and
 
 Features
 
--Login Screen**: Users can log in to the website using their credentials.
+-**Login Screen**: Users can log in to the website using their credentials.
 
 -Open Job Positions**: This page displays a list of open job positions available. Users can view the job details and apply for a position if interested.
 
